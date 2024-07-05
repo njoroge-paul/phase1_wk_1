@@ -15,4 +15,6 @@ function studentGradeGenerator(score)  {
  
  
 };
-console.log(studentGradeGenerator(90)); 
+console.log(studentGradeGenerator(40)); 
+
+
